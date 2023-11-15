@@ -1,0 +1,42 @@
+git init
+git remote add origin (our repo link)
+git remote -v  (to verify remote)
+
+git branch (to check branch)
+
+git branch -M main (git branch -M main if it is master)
+
+git push origin main
+
+branch check
+
+git branch (to check branch)
+git branch-m (to rename branch)
+git checkout (branch) to navigate another branch name
+git chekcout -b (new branch name) to create new branch
+
+git branch -d (branch name) delete
+
+Way 1 through command
+git merge
+
+git diff <- branch name-> (to compare commits, branches, files & more)
+git diff main
+
+git merge main (to merge 2 branches)
+
+Way 2 through PR
+
+pull request
+
+git pull origin main
+
+automatic indicate green color
+write comments for understanding
+
+git merge conflicts
+
+comments button added dropdown added
+Accept changes
+
+removed --- lines and  save the files
